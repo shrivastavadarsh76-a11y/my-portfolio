@@ -69,9 +69,9 @@ function App() {
               for the <em>web.</em>
             </h1>
             <p className="hero-text">
-              Hi, I'm <strong>Your Name</strong> — an MCA student interested in
-              full-stack development, clean interfaces, and solving real-world
-              problems through code.
+              Hi, I'm <strong>Adarsh Shrivastav</strong> — an MCA student
+              interested in full-stack development, clean interfaces, and
+              solving real-world problems through code.
             </p>
             <div className="hero-actions">
               <a className="button primary" href="#projects">
